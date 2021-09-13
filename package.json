@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "scripts": {"start": "node bot.js"},
+  "version": "1.6.10",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs-extra": "^10.0.0",
+    "fstorm": "latest",
+    "graceful-fs": "^4.2.8",
+    "hh-mm-ss": "^1.2.0",
+    "jimp": "latest",
+    "libsodium-wrappers": "latest",
+    "loadavg-windows": "^1.1.1",
+    "node-cron": "^3.0.0",
+    "normalize-date": "^0.0.4",
+    "opusscript": "latest",
+    "randomatic": "^3.1.1",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "steno": "^2.1.0",
+    "youtubei": "*",
+    "ytdl-core": "latest"
+  },
+  "is-music-bot": true
+}
